@@ -121,14 +121,14 @@ Their responsibilities include:
 Prompt engineering is the practice of designing and refining prompts to effectively communicate with AI models, ensuring accurate and relevant responses.
 
 **Importance:**
-Enhances AI accuracy and usability.
-Improves efficiency in AI-assisted tasks.
-Reduces misinterpretation and irrelevant responses.
-
+- Enhances AI accuracy and usability.
+- Improves efficiency in AI-assisted tasks.
+- Reduces misinterpretation and irrelevant responses.
 
 **2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
 
-**Vague Prompt:**	"Tell me about AI."	
-**Improved Prompt:** "Explain AI in simple terms, focusing on its role in healthcare."
-**Why It's Better:** More specific, providing a clear context and scope.
+- **Vague Prompt:**	"Tell me about AI."
+- **Improved Prompt:** "Explain AI in simple terms, focusing on its role in healthcare."
+- **Why It's Better:** More specific, providing a clear context and scope.
+  
 
