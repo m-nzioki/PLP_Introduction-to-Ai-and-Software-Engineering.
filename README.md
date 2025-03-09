@@ -131,3 +131,4 @@ Reduces misinterpretation and irrelevant responses.
 **Vague Prompt:**	"Tell me about AI."	
 **Improved Prompt:** "Explain AI in simple terms, focusing on its role in healthcare."
 **Why It's Better:** More specific, providing a clear context and scope.
+
