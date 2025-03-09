@@ -24,18 +24,18 @@ Importance of software engineering in the technology industry:
 | 2001 – Agile Manifesto | A set of principles advocating for iterative and collaborative software development. | Revolutionized software development by prioritizing flexibility and customer collaboration. |
 
 3.List and briefly explain the phases of the Software Development Life Cycle.
-**Requirement Analysis:** Gather and document business needs and user expectations.
-**Planning:**	Define scope, timeline, and resources required.
-**Design:**	Create architecture, system models, and user interfaces.
-**Development:**	Actual coding of the software based on design specifications.
-**Testing:**	Identify and fix defects to ensure quality.
-**Deployment**	Release software for users.
-**Maintenance:**	Ongoing updates and bug fixes after deployment.
+- **Requirement Analysis:** Gather and document business needs and user expectations.
+- **Planning:**	Define scope, timeline, and resources required.
+- **Design:**	Create architecture, system models, and user interfaces.
+- **Development:**	Actual coding of the software based on design specifications.
+- **Testing:**	Identify and fix defects to ensure quality.
+- **Deployment**	Release software for users.
+- **Maintenance:**	Ongoing updates and bug fixes after deployment.
 
 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 | Feature	| Waterfall	| Agile |
 | ------- | --------- | ----- |
-| Approach | Sequential, phase-based	| Iterative, incremental |
+| Approach | Sequential, phase-based | Iterative, incremental |
 | Flexibility |	Rigid, changes are difficult |	Highly flexible, accommodates changes |
 | Customer Involvement |	Minimal after requirement gathering	| Continuous feedback and collaboration |
 | Testing Phase |	Happens after development	| Happens throughout development |
